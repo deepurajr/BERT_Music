@@ -1,0 +1,10 @@
+data/fma_*
+data/*_Images
+.vscode
+templates/music
+Train_*
+__pycache__
+logs*
+
+
+
