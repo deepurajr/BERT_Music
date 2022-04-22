@@ -2,7 +2,7 @@ data/fma_*
 data/*_Images
 .vscode
 templates/music
-Train_*
+Train_Spectogram_Images
 __pycache__
 logs*
 
