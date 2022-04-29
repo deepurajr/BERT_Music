@@ -1,13 +1,17 @@
 1. Download the following dataset files and place it in `data` folder :
-[fma_metadata.zip](https://os.unil.cloud.switch.ch/fma/fma_metadata.zip)
+ - [fma_metadata.zip](https://os.unil.cloud.switch.ch/fma/fma_metadata.zip)
+ - [fma_small.zip](https://os.unil.cloud.switch.ch/fma/fma_small.zip)
+
+
 <br>
-[fma_small.zip](https://os.unil.cloud.switch.ch/fma/fma_small.zip)
-<br>
-2. Unzip the zip files 
+
+2. Unzip the zip files
+
 ```
 > unzip fma_small.zip
 > unzip fma_metadata.zip
 ```
+
 <br>
 3. Run the following python files in the below order to generate the 128x128 sliced spectrogram images
 
