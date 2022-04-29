@@ -1,5 +1,6 @@
 data/fma_*
 data/*_Images
+data/listenbrainz
 .vscode
 templates/music
 Train_Spectogram_Images
